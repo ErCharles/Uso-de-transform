@@ -1,0 +1,22 @@
+div{
+    background-color: aqua;
+    border-radius: 20px;
+    border-style: solid;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+}
+.transform1{
+    transform: rotate(100deg);
+    
+}
+.transform2{
+    transform: scale(1.5);
+    top: 200px;
+    left: 200px;
+}
+.transform3{
+    transform: skew(20deg);
+    top: 400px;
+    left: 400px;
+}
